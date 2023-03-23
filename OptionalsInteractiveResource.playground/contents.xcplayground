@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='macos' display-mode='rendered' buildActiveScheme='true' importAppTypes='true'>
+    <pages>
+        <page name='What if there is no value?'/>
+        <page name='What are Optionals?'/>
+        <page name='Creating Optionals'/>
+        <page name='Why do we use optionals?'/>
+        <page name='Your Turn to Create'/>
+        <page name='All Wrapped Up'/>
+        <page name='Nil Coalescing'/>
+        <page name='If Let'/>
+        <page name='Guard Let'/>
+        <page name='Force Unwrapping'/>
+        <page name='If Else'/>
+        <page name='Optional Chaining'/>
+        <page name='Safety First!'/>
+        <page name='Exercises'/>
+    </pages>
+</playground>
