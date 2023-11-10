@@ -5,8 +5,8 @@
 
  To coalesce nil, we use the `??` operator. The value after the `??` is the default value.
 */
-var name: String = "Ivoire"
-var nickname: String? = "Voe"
+var name: String = "Nick"
+var nickname: String? = "Nuck"
 print("Hello, \(nickname ?? name)")
 /*:
 - Experiment:
